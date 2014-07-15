@@ -1,4 +1,5 @@
 This is a test
+Another line.
 CONTENTS OF THIS FILE
 ---------------------
 
